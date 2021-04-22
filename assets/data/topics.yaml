@@ -1,0 +1,87 @@
+Aterosclerose:
+  topics:
+    - name: 'O que é?'
+      keywords:
+        - 'aterosclerose'
+        - 'artérias'
+        - 'coração'
+        - 'ldl'
+        - 'lesão' 
+    - name: 'Colesterol'
+      keywords:
+        - 'colesterol'
+        - 'ldl'
+        - 'vldl'
+        - 'idl'
+        - 'hdl'
+        - 'mau'
+        - 'menopausa' 
+    - name: 'Doenças associadas'
+      keywords:
+        - 'coronária'
+        - 'coração'
+        - 'avc'
+        - 'trombose'
+        - 'trombo'
+        - 'angina'
+        - 'peito'
+        - 'doença'
+        - 'doenças'
+        - 'circulação'
+    - name: 'Sintomas'
+      keywords:
+        - 'sintomas'
+        - 'cãibra'
+        - 'exercício'
+        - 'angina'
+        - 'dor'
+        - 'peito'
+        - 'circulação'
+        - 'fraqueza'
+        - 'fadiga'
+    - name: 'Fatores de risco'
+      keywords:
+        - 'placa'
+        - 'placas'
+        - 'gorduras'
+        - 'ateroma'
+        - 'tabaco'
+        - 'fumar'
+        - 'peso'
+        - 'obesidade'
+        - 'pílula'
+        - 'contraceção'
+        - 'diabetes'
+        - 'hipercolesterolemia'
+        - 'tensão'
+    - name: 'Prevenção'
+      keywords:
+        - 'industrializados'
+        - 'aterosclerose'
+        - 'fumar'
+        - 'tabaco'
+        - 'prevenção'
+        - 'exercício'
+    - name: 'Tratamento'
+      keywords:
+        - 'a'
+Contraceção:
+  topics:
+    - name: 'Tema 1'
+      keywords:
+        - 'pch'
+Covid-19:
+  topics:
+    - name: 'Tema 1'
+      keywords:
+        - 'pch'
+Diabetes:
+  topics:
+    - name: 'Tema 1'
+      keywords:
+        - 'pch'
+Hipertensão:
+  topics:
+    - name: 'Tema 1'
+      keywords:
+        - 'pch'
