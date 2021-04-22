@@ -63293,7 +63293,7 @@ $1:function(a){var s,r=document.createElement("iframe")
 r.width="640"
 r.height="360"
 s=this.a.a.c
-r.src="/assets/"+s
+r.src="/assets/assets/"+s
 s=r.style
 s.border="none"
 return r},
