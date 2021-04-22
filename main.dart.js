@@ -63174,7 +63174,7 @@ $0:function(){var s,r=this.b
 C.b.sm(r.z,0)
 s=r.a.gnc()
 s.toString
-r.r="/assets/data/"+s+this.a.a+".html"},
+r.r="data/"+s+this.a.a+".html"},
 $S:0}
 D.a4k.prototype={
 $0:function(){var s,r=this.a
@@ -63293,7 +63293,7 @@ $1:function(a){var s,r=document.createElement("iframe")
 r.width="640"
 r.height="360"
 s=this.a.a.c
-r.src=s
+r.src="/assets/"+s
 s=r.style
 s.border="none"
 return r},
