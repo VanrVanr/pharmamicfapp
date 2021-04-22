@@ -63174,7 +63174,7 @@ $0:function(){var s,r=this.b
 C.b.sm(r.z,0)
 s=r.a.gnc()
 s.toString
-r.r="data/"+s+this.a.a+".html"},
+r.r="/assets/data/"+s+this.a.a+".html"},
 $S:0}
 D.a4k.prototype={
 $0:function(){var s,r=this.a
