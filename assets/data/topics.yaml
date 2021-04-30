@@ -67,9 +67,26 @@ Aterosclerose:
         - 'a'
 Contraceção:
   topics:
-    - name: 'Tema 1'
+    - name: 'Esqueci-me de tomar a pílula. O que fazer?'
       keywords:
-        - 'pch'
+        - 'esqueci'
+        - 'esqueci-me'
+        - 'pilula'
+        - 'pílula'
+        - 'fazer'
+    - name: 'Comecei agora a tomar a pílula. A partir de quando é eficaz?'
+      keywords:
+        - 'comecei'
+        - 'pilula'
+        - 'pílula'
+        - 'eficaz'
+    - name: 'A toma de antibióticos interfere com a pílula?'
+      keywords:
+        - 'antibioticos'
+        - 'antibióticos'
+        - 'pílula'
+        - 'pilula'
+        - 'interfere'
 Covid-19:
   topics:
     - name: 'Tema 1'
@@ -77,9 +94,66 @@ Covid-19:
         - 'pch'
 Diabetes:
   topics:
-    - name: 'Tema 1'
+    - name: 'O que é?'
       keywords:
-        - 'pch'
+        - 'diabetes'
+        - 'hiperglicemia'
+        - 'insulina'
+        - 'tipo'
+    - name: 'Diabetes tipo 1 - O que é?'
+      keywords:
+        - 'diabetes'
+        - 'hiperglicemia'
+        - 'insulina'
+        - 'tipo'
+        - '1'
+    - name: 'Diabetes tipo 1 - Causas'
+      keywords:
+        - 'diabetes'
+        - 'hiperglicemia'
+        - 'insulina'
+        - 'tipo'
+        - '1'
+        - 'causa'
+        - 'causas'
+    - name: 'Diabetes tipo 1 - Sintomas e sinais'
+      keywords:
+        - 'diabetes'
+        - 'glicémia'
+        - 'glicemia'
+        - 'insulina'
+        - 'tipo'
+        - '1'
+        - 'sintomas'
+        - 'sinais'
+    - name: 'Diabetes tipo 1 - Diagnóstico'
+      keywords:
+        - 'diabetes'
+        - 'glicémia'
+        - 'glicemia'
+        - 'insulina'
+        - 'tipo'
+        - '1'
+        - 'diagnóstico'
+        - 'diagnostico'
+    - name: 'Diabetes tipo 1 - Efeitos a longo prazo e complicações?'
+      keywords:
+        - 'complicações'
+        - 'pé'
+        - 'pe'
+        - 'diabético'
+        - 'aterosclerose'
+        - '1'
+        - 'tipo'
+    - name: 'Diabetes tipo 1 - Tratamento'
+      keywords:
+        - 'humalog'
+        - 'lenta'
+        - 'rapida'
+        - 'ação'
+        - 'rápida'
+        - '1'
+        - 'tipo'
 Hipertensão:
   topics:
     - name: 'Tema 1'
