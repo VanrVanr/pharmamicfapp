@@ -154,6 +154,27 @@ Diabetes:
         - 'rápida'
         - '1'
         - 'tipo'
+    - name: 'Diabetes tipo 2 - O que é?'
+      keywords:
+        - 'diabetes'
+        - 'hiperglicemia'
+        - 'insulina'
+        - 'tipo'
+        - '2'
+    - name: 'Diabetes tipo 2 - Causas'
+      keywords:
+        - 'diabetes'
+        - 'causas'
+        - 'insulina'
+        - 'tipo'
+        - '2'
+    - name: 'Diabetes tipo 2 - Sintomas e sinais'
+      keywords:
+        - 'diabetes'
+        - 'sintomas'
+        - 'sinais'
+        - 'tipo'
+        - '2'
 Hipertensão:
   topics:
     - name: 'Tema 1'
